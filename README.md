@@ -8,7 +8,7 @@ I am a Full Stack developer with experience building web applications and mobile
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [eduardoeq@gmail.com](mailto:eduardoeq@gmail.com)
-* 🚀  I'm currently working on [Companies Made Simple](http://companiesmadesimple.com)
+* 🚀  I'm currently working at [Companies Made Simple](http://companiesmadesimple.com)
 
 ### Skills
 
@@ -40,4 +40,4 @@ I am a Full Stack developer with experience building web applications and mobile
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/eduardoeq" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/eduardo-raizer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/eduardo-raizer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.github.com/eduardoeq" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> </p>
